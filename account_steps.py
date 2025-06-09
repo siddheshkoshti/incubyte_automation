@@ -1,7 +1,7 @@
 from behave import *
-from pages.home_page import HomePage
-from pages.register_page import RegisterPage
-from pages.login_page import LoginPage
+from pythonProject1.pages.home_page import HomePage
+from pythonProject1.pages.register_page import RegisterPage
+from pythonProject1.pages.login_page import LoginPage
 import time
 from selenium.webdriver.common.by import By
 from selenium import webdriver
